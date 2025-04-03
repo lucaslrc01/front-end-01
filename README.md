@@ -5,5 +5,6 @@
 ## Lucas de Leon Rodrigues Coelho
 
 - [Laboratório 1](lab-01/) - Sêmantica no HTML
-- [Laboratório 2](lab-02/) - Elementos (genéricos, id, escape, link, img) -HTML
+- [Laboratório 2](lab-02/) - Elementos (genéricos, id, escape, link, img) - HTML
 - [Laboratório 3](lab-03/) - Elementos (tabela, mídia) - HTML
+- [Laboratório 4](lab-04/) - Elementos (formulário) - HTML
