@@ -1,8 +1,8 @@
-# Laboratórios de Front-End 1
+# Front-End 1
 
 > Repositório com os laboratórios da disciplina de Front End 1 do curso de Análise e Desenvolvimento de Sistemas do IFSC, câmpus São José.
 
-## Lucas de Leon Rodrigues Coelho
+## Laboratórios
 
 - [Laboratório 1](lab-01/) - Sêmantica no HTML
 - [Laboratório 2](lab-02/) - Elementos (genéricos, id, escape, link, img) - HTML

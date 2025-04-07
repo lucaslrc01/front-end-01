@@ -4,45 +4,45 @@
 
 ## Elementos estruturais:
 
-- >  **header**: conteúdo introdutório ou um conjunto de links de navegação.
-- >  **nav**: define um conjunto delinks de navegação.
-- >  **section**: define uma seção em um documento.
-- >   **article**: especifica conteúdo independente e autocontido.
-- >  **aside**: define algum conteúdo além daquele em que está colocado (como uma barra lateral).
-- >  **footer**: define um rodapé para um documento ou seção.
+> - **header**: conteúdo introdutório ou um conjunto de links de navegação.
+> - **nav**: define um conjunto delinks de navegação.
+> - **section**: define uma seção em um documento.
+> - **article**: especifica conteúdo independente e autocontido.
+> - **aside**: define algum conteúdo além daquele em que está colocado (como uma barra lateral).
+> - **footer**: define um rodapé para um documento ou seção.
 
 ## Elementos de conteúdo:
 
-- > **h1 - h6**: Hierarquia de títulos, sendo h1 um o maior e h6 o menor.
-- > **p**: paragráfos.
-- > **hr**: insere uma linha horizontal.
-- > **ul + li**: lista não ordenada.
-```
-<ul>
-    <li>Item 1</li>
-</ul>
-```
-- > **ol + li**: lista ordenada.
-```
-<ol>
-    <li>Item 1</li>
-</ol>
-```
-- > **dl + dt + dd**: lista com descrição.
-```
-<dl>
-    <dt>Matéria 1</dt>
-        <dd>Professor 1</dd>
-</dl>
-```
+> - **h1 - h6**: Hierarquia de títulos, sendo h1 um o maior e h6 o menor.
+> - **p**: paragráfos.
+> - **hr**: insere uma linha horizontal.
+> - **ul + li**: lista não ordenada.
+>```
+><ul>
+>    <li>Item 1</li>
+></ul>
+>```
+> - **ol + li**: lista ordenada.
+>```
+><ol>
+>    <li>Item 1</li>
+></ol>
+>```
+> - **dl + dt + dd**: lista com descrição.
+>```
+><dl>
+>    <dt>Matéria 1</dt>
+>        <dd>Professor 1</dd>
+></dl>
+>```
 
 ## Elementos de texto
 
-- > **em**: enfatizar parte do texto.
-- > **strong**: deixa parte do texto em negrito.
-- > **code**: insere trecho de código.
-- > **sub e sup**: insere texto subscrito e sobrescrito.
-- > **br**: quebra de linha.
+> - **em**: enfatizar parte do texto.
+> - **strong**: deixa parte do texto em negrito.
+> - **code**: insere trecho de código.
+> - **sub e sup**: insere texto subscrito e sobrescrito.
+> - **br**: quebra de linha.
 
 ## Exercícios:
 1. Crie um documento HTML completo com _body_ e _head_.
